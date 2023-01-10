@@ -13,6 +13,7 @@ header {
     justify-content: center;
     padding: 10px;
     margin-bottom: 25px;
+    font-family: 'Roboto', sans-serif;
 }
 h1 {
     font-size: 3.5rem;
@@ -43,6 +44,7 @@ body {
     width: 4em;
     height: 4em;
     background-color: rgba(251, 137, 156, 0.565);
+    border: 2px solid black;
 }
 .botonP {
     background-color: red;
